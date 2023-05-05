@@ -16,6 +16,10 @@
     ii. Meals will be fetched with their Nutrients values i.e. Calories, Carbohydrates, Fats, Proteins.
     iii. Now tap on to "Get Recipe" button.
     iv. The Ingredients, Steps and Equipment will be displayed.
+    
+    https://meal-planner-project-js-om-prakash.netlify.app
+    
+    https://github.com/Om-Prakash-Chaurasia/Meal-Planner-Project---JavaScript-Project---ie22v1uwpxa2
 
 5. Credits :-
 
