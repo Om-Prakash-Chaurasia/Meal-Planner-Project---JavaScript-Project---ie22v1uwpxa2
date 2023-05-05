@@ -4,7 +4,7 @@
 
     To plan a daily meals chart for an average citizen in their busy modern lifestyle based on their height, weight, age, gender and activity level.
 
-    This application also provides meals ingredients, recipe and equipment need to prepare that meal.
+    This application also provides meals ingredients, recipe and equipment needed to prepare that meal.
 
 3. How to install and run the project?
 
